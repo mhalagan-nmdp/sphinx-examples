@@ -25,10 +25,7 @@ Python Boilerplate contains all the boilerplate you need to create a Python pack
 * Documentation: https://sphinx-examples.readthedocs.io.
 
 
-Features
---------
 
-* TODO
 
 Credits
 ---------
