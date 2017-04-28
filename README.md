@@ -1,2 +1,0 @@
-# sphinx-examples
-Sphinx examples
